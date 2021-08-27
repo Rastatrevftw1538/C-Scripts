@@ -1,0 +1,4 @@
+﻿  Add2.c
+C:\Users\trevo\Documents\GitHub\C-Scripts\CPractice\CPractice\Add2.c(6,12): error C2143: syntax error: missing ')' before 'type'
+C:\Users\trevo\Documents\GitHub\C-Scripts\CPractice\CPractice\Add2.c(6,7): error C2198: 'scanf': too few arguments for call
+C:\Users\trevo\Documents\GitHub\C-Scripts\CPractice\CPractice\Add2.c(6,23): error C2059: syntax error: ')'
